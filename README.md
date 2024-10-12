@@ -1,8 +1,8 @@
 # Project-Overactive-Mind
 Where crazy off cuff ideas are tested
 
-IDEA (OF SORTS):
-approach to artificial intelligence that centered on building hierarchical, modular neural networks capable of self-supervised meta-learning, methodology leverages modularity to create specialized sub-networks that can be trained on specific tasks or domains.
+RESEARCH IDEA (OF SORTS):
+approach to artificial intelligence centered on building hierarchical, modular neural networks capable of self-supervised meta-learning, methodology leverages modularity to create specialized sub-networks that can be trained on specific tasks or domains.
 integrating self-supervised learning techniques and meta-learning strategies, the AI system can adapt to new tasks with minimal additional training.
 
 
